@@ -1,0 +1,2 @@
+Branch in Github are not the same as branch created or cloned in your laptop
+Still can't figure where is Master or newbranch?
