@@ -1,2 +1,3 @@
 Branch in Github are not the same as branch created or cloned in your laptop
 Still can't figure where is Master or newbranch?
+Make sure you cd to a repo name that is same on github (took me time to fig. this)
